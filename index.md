@@ -19,8 +19,6 @@ After the 2015 years, I awake from addiction of online games, I visited America 
 
 So I began to create my website and writing articles to share positive concepts, personal experience, inspirational stories and recording life after I escaped from from addiction of online games.
 
-<br>
-
 **[Miri Robot Fortune-Teller](https://minayu.site/miri-robot-fortune-teller/)(2017/11- )**
 
 Own-developed divination and fortune-telling creative product, it moves the traditional flows of divination and fortune-telling to software and internet. 
@@ -36,36 +34,47 @@ I hope to use the power of technology to make a robot fortune-teller, it can giv
 ### In Work Time
 
 **Solar Energy Sites Data Collect System(2020/11-2021/02)**
+A solar energy data collector which receives instant data from all solar energy sites IoT devices every 2 minutes through MQTT message broker. Processing, calculating and saving data into database for monitoring and analyses.
 
-A solar energy site data collector which receives instant data from all solar energy sites every 2 minutes through MQTT message broker. Processing, calculating and saving data into database for monitoring and analyses.
+Improved 80% speed for processing instant data than former system by using Async and Multi-Thread design. 
+
+Skills: ***#Python #MQTT #Async #Thread #Jenkins #PostgreSQL #Agile #Object-oriented***
 
 **Solar Energy Site Project Auditing and Management (2020/10-2020/12)**
+A program to generate daily reports for helping the solar energy sales department to understand the operation progress of each solar site project and lacking status of documents.
 
-A program tool for helping the solar energy department of sales understand the operation progress of each solar site project and documents, generating reports per day for reviewing the progress and lack of documentation.
+Reduced work time of hand-making reports.
+
+Skills: ***#Python #Jenkins #PostgreSQL #Agile #SMBProtocol3 #Pandas #XlsxWriter #Object-oriented #SQLAlchemy***
 
 **Solar Energy Sites Monitor Platform (2020/04-2020/09)**
-
 A dashboard website for showing whole status, efficiency, calculation and prediction information instantly of total 116 Taiwanese solar energy sites data, receiving every 2 minutes instant data from IoT devices through MQTT message broker.
 
+Offered experts, customers, engineers to monitor instant situation of solar energy sites.
+
+Skills: ***#Python #Flask #MQTT #Restful API #Docker #Jenkins #PostgreSQL #Agile #Object-oriented #SQLAlchemy #Redis #TDD***
+
 **Street Light Smart Management System (2019/11-2020/05)**
+A management website can monitor and manage the instant situation of total 260 thousand streetlights in Taiwan. Receiving instant data of 260 thousand streetlights through MQTT protocol and includes following management features: devices information, controlling devices, issue reports, scheduling light, account management and more features.
 
-A management website can monitor and manage the instant situation of total 260 thousand streetlights in Taiwan. Receiving instant data of 260 thousand streetlights through MQTT protocol and includes managing devices situation, controlling devices by sending commands, issue reports, scheduling light, account management and more features.
-
-#Python #Flask #MQTT #Restful API #Async #Thread #Docker #Jenkins #PostgreSQL #Agile #SMBProtocol3 #Pandas #XlsxWriter #Object-oriented #SQLAlchemy #Redis #TDD #JWT #Swagger
+Skills: ***#Python #Flask #MQTT #Restful API #PostgreSQL #Agile #SQLAlchemy #TDD #JWT #Swagger***
 
 **Robot-Advisor (2019/07-2019/08)**
-
 AI Bank Insurance System project, recommend suitable insurance plans based on customers’ requirements by Black-Litterman (BL) Model algorithm.
 
-**SyGPS™ AI-enabled business GPS (2018/11-2019/06)**
+Designed Test plans and maintained daily data crawler program for system stability.
 
-A Business Intelligence (BI) product with AI algorithm, developed in Python, Flask and Vue.js, analyzes big data from enterprises’s databases which consists of past operations, sales, etc. and predicts future trends. Users can ask questions and can get insights analyzed by AI.
+Skills: ***#Java #Python #Crontab #MSSQL #TestPlan #Object-oriented***
+
+**SyGPS™ AI-enabled business GPS (2018/11-2019/06)**
+A Business Intelligence (BI) with AI algorithm core system, developed in Python, Flask and Vue.js, analyzes the business value, past operations, sales and future trends prediction by importing big data from enterprises’s databases. Entrepreneurs and customers can ask questions though search bar for getting current insight reports by AI.
+
+Skills: ***#Python #Flask #Pandas #SQLite #Object-oriented #SQLAlchemy #NLTK #Docker #Jenkins #Agile #TDD***
 
 **Beijing Industrial Project (2018/09-2018/11)**
+A factory monitor website provides KPI calculation, yield failure rate, people flow system, employee monitoring, and alarm system for helping management.
 
-A monitor website developed in Python and Flask, provides features such as KPI calculation, yield failure rate, people flow system, employee monitoring, and alarm system for helping Foxconn company to manage factories.
-
-#Python #Flask #Pandas #MySQL #Crontab #MSSQL #TestPlan #Object-oriented #SQLAlchemy #NLTK #Docker #Jenkins #Agile #TDD
+Skills: ***#Python #Flask #Pandas #MySQL #SQLAlchemy #Docker #Jenkins***
 
 <br>
 
@@ -74,23 +83,30 @@ A monitor website developed in Python and Flask, provides features such as KPI c
 **The Data Construction and Research Analysis (2017/04-2018/06)**
 Assisted government to analyze reasons of Vulnerable Families so that they can take required actions and make better decision. Collaborated to Ministry of Health and Welfare and Department of Social Work.
 
-**[Bonus System Software (2018/04-2018/06)](https://github.com/minayu416/AddPoint)**
+Analyzing cause conditions from residence area, national income and health insurance levels of 20 million citizens data.
 
+Skills: ***#SQL #SAS***
+
+**[Bonus System Software (2018/04-2018/06)](https://github.com/minayu416/AddPoint)**
 A Python Desktop software for verifying my Master’s degree paper: A Bonus-based Approach to the Improvement of MOOC Completion Rate, which calculates scores based on student activity while students take online courses, showing scores to students as a feeling of achievement and helping to increase students’ willingness to learn courses. 
 
-**Earth Ethical Eating Day (2017/08-2017/09)**
+Skills: ***#Python2 #Django #Tkinder***
 
+**Earth Ethical Eating Day (2017/08-2017/09)**
 Helped Taiwanese international humanitarian and non-governmental organization Tzu Chi Foundation to build a website for exciting people eat vegetables and fruits instead meat and fish. 
 
-**[IR Office Official Site (2016/04-2016/09)](https://ir-web-demo.herokuapp.com/)**
+Skills: ***#HTML #CSS***
 
-My first website development project, *only in Chinese.
+**[IR Office Official Site (2016/04-2016/09)](https://ir-web-demo.herokuapp.com/)**
+Assisted administration office of university to build official website for management and news publishment.
+
+Re-maked as a demo web after office reformed website.
+
+*only in Chinese.
 
 GitHub: https://github.com/minayu416/ir-web-demo
 
-
-
-#Python2 #Django #Tkinder #SQL #SAS #HTML #CSS
+Skills: ***#Python2 #Django #HTML #CSS***
 
 <hr>
 
@@ -98,4 +114,4 @@ GitHub: https://github.com/minayu416/ir-web-demo
 The development is still progressing...
 ```
 
-More content and thinking please refer [README](https://github.com/minayu416/miri_demo/blob/develop/README.md) and [My Personal Blog](https://minayu.site/en/) 
+More content and thinking please refer [My Personal Blog](https://minayu.site/en/), the english content has been created recently, so there isn't many posts.
