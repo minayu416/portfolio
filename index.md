@@ -87,7 +87,7 @@ Skills: #Python #Flask #Pandas #MySQL #SQLAlchemy #Docker #Jenkins
 
 <br>
 
-### University Time
+### In University Time
 
 **The Data Construction and Research Analysis (2017/04-2018/06)**
 
