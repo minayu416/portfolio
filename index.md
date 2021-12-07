@@ -33,7 +33,7 @@ I hope to use the power of technology to make a robot fortune-teller, it can giv
 
 ### In Work Time
 
-**Solar Energy Sites Data Collect System(2020/11-2021/02)**
+**Solar Energy Sites Data Collect System (2020/11-2021/02)**
 
 A solar energy data collector which receives instant data from all solar energy sites IoT devices every 2 minutes through MQTT message broker. Processing, calculating and saving data into database for monitoring and analyses.
 
