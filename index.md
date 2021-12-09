@@ -89,7 +89,7 @@ Skills: #Python #Flask #Pandas #MySQL #SQLAlchemy #Docker #Jenkins
 
 ### In University Time
 
-**The Data Construction and Research Analysis (2017/04-2018/06)**
+**The Data Construction and Research Analysis of Vulnerable Families (2017/04-2018/06)**
 
 Assisted government to analyze reasons of Vulnerable Families so that they can take required actions and make better decision. Collaborated to Ministry of Health and Welfare and Department of Social Work.
 
